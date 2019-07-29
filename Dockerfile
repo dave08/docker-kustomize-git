@@ -1,3 +1,3 @@
-FROM bitlayer/kustomize:v2.1.0
+FROM bitlayer/kustomize:v2.0.3
 
 RUN apk add -U git
